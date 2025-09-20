@@ -5,7 +5,7 @@ import axios from 'axios';
 export const UserDataContext = createContext();
 
 const UserContext = ({ children }) => {
-   const serverUrl = "http://localhost:8000";
+   const serverUrl = "https://ai-powered-docs-hub-backend.onrender.com";
  
   const [userData, setUserData] = useState(null);
   const [loading, setLoading] = useState(true); // 🔁 Add loading flag
