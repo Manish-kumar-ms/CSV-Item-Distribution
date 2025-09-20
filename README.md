@@ -7,8 +7,8 @@ from a CSV file. Built with **React**, **Node.js/Express**, **MongoDB**, **Axios
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://ai-powered-docs-hub-frontend.onrender.com](https://ai-powered-docs-hub-frontend.onrender.com)  
-- **Backend**: [https://ai-powered-docs-hub-backend.onrender.com](https://ai-powered-docs-hub-backend.onrender.com)
+- **Frontend**: [https://csv-item-distribution-frontend.onrender.com](https://csv-item-distribution-frontend.onrender.com)  
+- **Backend**: [https://csv-item-distribution-backend1.onrender.com](https://csv-item-distribution-backend1.onrender.com)
 
 ---
 
